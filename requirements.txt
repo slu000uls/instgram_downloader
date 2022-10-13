@@ -1,0 +1,3 @@
+requests
+sseclient-py
+python-telegram-bot
